@@ -299,6 +299,10 @@ ul {
 		margin: 1rem;
 	}
 
+	.main-showcase .container a {
+		margin-top: 1rem;
+	}
+
 	.showcase-b-inner h2 {
 		font-size: 4.5rem;
 	}

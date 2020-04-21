@@ -322,8 +322,9 @@ ul {
 	}
 
 	.footer-section a > i {
-		margin-right: 2rem;
+		margin-right: 1.5rem;
 		margin-bottom: 1rem;
+		margin-left: 1.8rem;
 	}
 
 	.footer-section .container div:first-child,

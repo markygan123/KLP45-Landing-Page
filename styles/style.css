@@ -304,12 +304,14 @@ ul {
 	}
 
 	.showcase-b-inner h2 {
-		font-size: 4.5rem;
+		font-size: 4rem;
+		margin: 0 5rem;
 	}
 
 	.showcase-b-inner p {
 		font-size: 2.3rem;
 		line-height: 1.5;
+		margin: 2.5rem 0;
 	}
 
 	.klp45-gallery {

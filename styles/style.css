@@ -344,6 +344,16 @@ ul {
 	}
 }
 
+@media (min-width: 1395px) {
+	.showcase-c {
+		margin: 0 auto;
+	}
+
+	.klp45-gallery {
+		grid-template-columns: repeat(auto-fit, minmax(233.5px, 233.5px));		
+	}	
+}
+
 /*Lightbox Styles*/
 
 #lightbox {

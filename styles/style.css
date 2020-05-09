@@ -349,6 +349,10 @@ ul {
 		margin: 0 auto;
 	}
 
+	.showcase-c img {
+		height: 330px;
+	}
+
 	.klp45-gallery {
 		grid-template-columns: repeat(auto-fit, minmax(233.5px, 233.5px));		
 	}	

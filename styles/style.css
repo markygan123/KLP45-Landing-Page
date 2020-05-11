@@ -354,7 +354,7 @@ ul {
 	}
 
 	.klp45-gallery {
-		grid-template-columns: repeat(auto-fit, minmax(233.5px, 233.5px));		
+		grid-template-columns: repeat(auto-fit, 233.5px);		
 	}	
 }
 
